@@ -74,6 +74,12 @@ activities = {
         "schedule": "Tuesdays and Saturdays, 3:30 PM - 5:00 PM",
         "max_participants": 20,
         "participants": ["david@mergington.edu"]
+    },
+    "Music Band": {
+        "description": "Learn instrumental music and perform in school concerts",
+        "schedule": "Mondays and Wednesdays, 3:30 PM - 4:30 PM",
+        "max_participants": 25,
+        "participants": ["sarah@mergington.edu", "jacob@mergington.edu"]
     }
 }
 
